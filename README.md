@@ -1,6 +1,6 @@
 # Contents
 
-This project is going to share same experiences of OpenStack.
+This project is going to share same experiences of cloud computing.
 
 ---
 
